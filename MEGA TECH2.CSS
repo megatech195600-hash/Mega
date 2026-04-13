@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Asset&family=Bitcount+Prop+Double+Ink:wght@100..900&family=Bitcount+Prop+Double:wght@100..900&family=Bungee&family=Eater&family=Mountains+of+Christmas:wght@400;700&family=Playwrite+DK+Uloopet+Guides&family=Shadows+Into+Light&family=Ultra&display=swap');
+
+body {
+    font-family: 'Archivo Black';
+    display: flex;
+}
+div {
+    height: 2290px;
+    width: 850px;
+    /* background: linear-gradient(rgb(19, 208, 255) 33.33%, yellow 33.33% 66.66%, silver 66.66%); */
+    background: linear-gradient(#81A6C6, #F3E3D0 , #AACDDC );
+    border: 7px solid black;
+    text-align: center;
+    
+}
+* {
+    color: black;
+    align-items: center;
+}
+img {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+    border: 8px solid red;
+}
+img {
+     width: 250px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+img {
+     width: 250px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+ 
